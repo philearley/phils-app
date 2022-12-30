@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "carbon-react": "^13.6.2",
+    "carbon-react": "^111.22.2",
     "core-js": "^3.6.4",
     "css-loader": "^3.4.2",
     "file-loader": "^5.1.0",
